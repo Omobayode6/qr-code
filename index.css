@@ -4,10 +4,6 @@ body{
   box-sizing: border-box;
   background-color: #d5e1ef;
   font-family: 'Outfit', sans-serif;
-  
-}
-#hidden{
-  visibility: hidden;
 }
 .container{
   width: 250px;
@@ -21,7 +17,6 @@ body{
   background-color: white;
   border-radius: 20px;
   text-align: center;
-  
 }
 .container img{
   width: 250px;

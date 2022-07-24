@@ -1,0 +1,39 @@
+/* Media-Query */
+
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #d5e1ef;
+  font-family: 'Outfit', sans-serif;
+}
+#hidden{
+  visibility: hidden;
+}
+.container{
+  width: 250px;
+  margin: 70px auto 0;
+  padding: 15px;
+  max-width: 100%;
+  height: 400px;
+  background-color: white;
+  border-radius: 20px;
+  text-align: center;
+  
+}
+.container img{
+  width: 250px;
+  border-radius: 10px;
+}
+#heading{
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+}
+#sub{
+  font-weight: 400px;
+  font-size: 14px;
+  color: hsl(220, 15%, 55%);
+}
+#heading, #sub{
+  padding: 0 15px;
+}
